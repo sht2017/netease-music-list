@@ -1,7 +1,1 @@
-[AutoProxy 0.2.9]
-music.163.com
-163yun.com
-api.iplay.163.com
-hz.netease.com
-mam.netease.com
-!---------------------EOF-----------------------
+W0F1dG9Qcm94eSAwLjIuOV0NCm11c2ljLjE2My5jb20NCjE2M3l1bi5jb20NCmFwaS5pcGxheS4xNjMuY29tDQpoei5uZXRlYXNlLmNvbQ0KbWFtLm5ldGVhc2UuY29tDQohLS0tLS0tLS0tLS0tLS0tLS0tLS0tRU9GLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0=
